@@ -6,9 +6,9 @@ An AI-powered web application that automatically generates **3–5 Frequently As
 
 
 ## 🚀 Live Demo
- https://your-live-link.com
+https://gauri9368gupta-maker.github.io/AI-FAQ-Generator/
 
-📂 **GitHub Repository:
+##📂 GitHub Repository
 https://github.com/gauri9368gupta-maker/AI-FAQ-Generator
 
 ## 📸 Preview
