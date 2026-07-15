@@ -1,4 +1,4 @@
-const API_URL = "http://localhost:5000/api/faq";
+const API_URL = "https://ai-faq-generator-3rgj.onrender.com/api/faq";
 
 export const generateFAQs = async (paragraph) => {
   try {
@@ -12,10 +12,11 @@ export const generateFAQs = async (paragraph) => {
       }),
     });
 
-    const data = await response.json();
+    if (!response.ok) {
+      throw new Error("Failed to generate FAQs");
+    }
 
-    return data;
-
+    return await response.json();
   } catch (error) {
     console.error("API Error:", error);
     throw error;
