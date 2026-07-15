@@ -12,6 +12,8 @@ https://gauri9368gupta-maker.github.io/AI-FAQ-Generator/
 https://github.com/gauri9368gupta-maker/AI-FAQ-Generator
 
 ## 📸 Preview
+![Home Page](images/dark.png)
+![Home Page](images/light.png)
 ![Home Page](images/ss1.png)
 ![Home Page](images/ss2.png)
 ![Home Page](images/ss3.png)
